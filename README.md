@@ -9,4 +9,6 @@
   <img align="center" alt="Oracle" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
   <img align="center" alt="Arduino" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
   <img align="center" alt="git" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
+
+  [![My Skills](https://skillicons.dev/icons?i=java&perline=3)](https://skillicons.dev)
           
