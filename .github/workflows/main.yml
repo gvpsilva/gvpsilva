@@ -1,0 +1,30 @@
+name: Generate Snake
+
+on:
+  schedule:
+    # Execute uma vez por dia
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+  push:
+    branches:
+      - master  # ou a branch principal do seu repositório
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Generate Snake
+        uses: Platane/snk@master
+        with:
+          github_user_name: gvpsilva
+          gif_out_path: dist/github-snake.gif
+          svg_out_path: dist/github-snake.svg
+      - name: Commit and Push
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
