@@ -1,5 +1,5 @@
 ### Hi, I'm Gabriel Silva
-I'm a Mid-level Java Developer and have been working with development for 4 years. I'm also a Computer Network Technician at the Federal Center for Technological Education of Minas Gerais and an Information Systems student at the Federal University of Minas Gerais (UFMG).
+I'm a Systems Analyst specializing in Java and T-SQL development, collaborating closely with teams to deliver high-quality software solutions. Currently pursuing a degree in Information Systems at UFMG, I'm expanding my expertise in software engineering and databases. With a foundation in Computer Networks from CEFET-MG, I bring 4 years of experience as a Mid-level Java Developer.
 
 
 <p  align="center">
