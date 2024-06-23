@@ -17,6 +17,3 @@ I'm a Mid-level Java Developer and have been working with development for 4 year
 <img  align="left"  height="160px"  src="https://github-readme-stats.vercel.app/api?username=gvpsilva&show_icons=true&theme=dracula"  alt="gvpsilva" />
 <img  align="left"  height="160px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=gvpsilva&show_icons=true&theme=dracula&locale=en&layout=compact"  alt="gvpsilva" />
 </hr>
-<div></div>
-![Snake animation](https://github.com/gvpsilva/snake-commits/blob/output/github-contribution-grid-snake.svg)
-</div>
