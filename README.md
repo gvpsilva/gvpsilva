@@ -1,5 +1,5 @@
 ### Hi, I'm Gabriel Silva
-I'm a Systems Analyst specializing in Java and T-SQL development, collaborating closely with teams to deliver high-quality software solutions. Currently pursuing a degree in Information Systems at UFMG, I'm expanding my expertise in software engineering and databases. With a foundation in Computer Networks from CEFET-MG, I bring 4 years of experience as a Mid-level Java Developer.
+I'm a Software Developer specializing in Java and T-SQL, with a strong focus on delivering high-quality software solutions through close collaboration with teams. Currently, I'm pursuing a degree in Information Systems at UFMG, further enhancing my skills in software engineering and databases. I hold a foundation in Computer Networks from CEFET-MG and bring 4 years of experience as a Mid-level Java Developer, where I’ve contributed to various projects and helped streamline development processes.
 
 
 <p  align="center">
