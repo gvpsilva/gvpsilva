@@ -3,7 +3,7 @@ I'm a Software Developer specializing in Java and T-SQL, with a strong focus on 
 
 
 <p  align="center">
-<a  href="https://skillicons.dev"><img  src="https://skillicons.dev/icons?i=java,js,html,css,c,cpp,py,arduino,vscode,grafana,git,github,mysql,androidstudio" /></a>
+<a  href="https://skillicons.dev"><img  src="https://skillicons.dev/icons?i=java,js,html,css,c,cpp,arduino,vscode,grafana,git,github" /></a>
 </p>
 <h3> Connect with me: </h3>
 <p></p>
