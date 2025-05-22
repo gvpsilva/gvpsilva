@@ -11,9 +11,3 @@ I'm a Software Developer with 5 years of experience, specializing in Java and T-
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gvpsilva/)
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:gvpsilvaa@gmail.com)
-
-
-<hr>
-<img  align="left"  height="160px"  src="https://github-readme-stats.vercel.app/api?username=gvpsilva&show_icons=true&theme=dracula"  alt="gvpsilva" />
-<img  align="left"  height="160px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=gvpsilva&show_icons=true&theme=dracula&locale=en&layout=compact"  alt="gvpsilva" />
-</hr>
